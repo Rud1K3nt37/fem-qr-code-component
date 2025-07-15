@@ -1,0 +1,19 @@
+:root {
+  --color-bg: #d5e1ef;
+  --color-text: #000;
+  --color-card: #fff;
+  --color-title: #1f314f;
+  --color-subtitle: #68778d;
+
+  --border-radius: 20px;
+  --radius-small: 10px;
+  --gap-large: 1.5rem;
+  --gap-medium: 1rem;
+  --padding-block: 2.5rem;
+
+  --font-main: 'Outfit', sans-serif;
+
+  /* Цвета ссылок */
+  --link-color: hsl(228, 45%, 44%);
+  --link-hover-color: hsl(228, 70%, 60%);
+}
