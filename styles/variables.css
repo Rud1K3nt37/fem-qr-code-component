@@ -9,9 +9,12 @@
   --radius-small: 10px;
   --gap-large: 1.5rem;
   --gap-medium: 1rem;
+  --padding-inline: 1rem;
   --padding-block: 2.5rem;
 
   --font-main: 'Outfit', sans-serif;
+
+  --shadow-card: 0 25px 25px 0 rgba(0, 0, 0, 0.0477);
 
   /* Цвета ссылок */
   --link-color: hsl(228, 45%, 44%);

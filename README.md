@@ -9,7 +9,7 @@
 ## 🔗 Ссылки
 
 - Репозиторий: [GitHub Repository](https://github.com/Rud1K3nt37/fem-qr-code-component.git)  
-- Демо-версия: локально (не опубликовано онлайн)
+- Демо-версия: [Website](https://rud1k3nt37.github.io/fem-qr-code-component/)
 
 ## ⚙️ Мой процесс
 
